@@ -34,3 +34,5 @@ Remember also to answer all written questions in the exercise in addition to the
  - [Problem 3 - Markdown practice (2 points)](Exercise-2.ipynb)
 # Test
 testing changes and using terminal 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cog-R/Exercise-2/HEAD)

@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/cog-r-exercise-2-381305ta/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 19,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "XBUc81q6Ry6Z1GCYxTfTig",
+  "url": "http://jupyter-cog-r-exercise-2-381305ta:8888/user/cog-r-exercise-2-381305ta/",
+  "version": "2.17.0"
+}
